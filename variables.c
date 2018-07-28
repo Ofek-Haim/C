@@ -36,6 +36,6 @@ void variable()
 
 int main()
 {
-	variable();
+    variable();
     return 0; // OK
 }
