@@ -2,7 +2,7 @@
 
 #include "stdafx.h"
 
-void comments() /* This is a comment. */
+void comments() /* This is a comment.*/
 /* This is a comment, but
 it is not limited to a single line. It spans
 multiple lines. */
