@@ -10,4 +10,5 @@ Hope you'll enjoy from this repository.
 * Comments
 * Variables
 * Input and output
+* Mathematical operations
 
