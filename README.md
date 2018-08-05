@@ -12,4 +12,5 @@ Hope you'll enjoy from this repository.
 * Input and output
 * Mathematical operations
 * Boolean expressions and conditions
+* Loops
 
