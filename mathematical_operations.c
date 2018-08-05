@@ -71,6 +71,10 @@ void mathematical_operations()
 
 	printf("%lf\n",(9 / 5.5));
 	printf("%d\n", (9 / 5));
+	
+	//casting
+	char x = 3;
+	int y = x;
 }
 
 int main()
