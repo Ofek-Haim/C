@@ -11,4 +11,5 @@ Hope you'll enjoy from this repository.
 * Variables
 * Input and output
 * Mathematical operations
+* Boolean expressions and conditions
 
