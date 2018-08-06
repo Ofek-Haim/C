@@ -13,4 +13,5 @@ Hope you'll enjoy from this repository.
 * Mathematical operations
 * Boolean expressions and conditions
 * Loops
+* Functions
 
