@@ -14,4 +14,5 @@ Hope you'll enjoy from this repository.
 * Boolean expressions and conditions
 * Loops
 * Functions
+* Arrays
 
