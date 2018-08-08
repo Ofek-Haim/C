@@ -15,4 +15,5 @@ Hope you'll enjoy from this repository.
 * Loops
 * Functions
 * Arrays
+* String
 
