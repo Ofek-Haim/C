@@ -16,4 +16,4 @@ Hope you'll enjoy from this repository.
 * Functions
 * Arrays
 * String
-
+* Pointers
