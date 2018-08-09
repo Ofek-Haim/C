@@ -17,3 +17,4 @@ Hope you'll enjoy from this repository.
 * Arrays
 * String
 * Pointers
+* Pointing arrays and functions
