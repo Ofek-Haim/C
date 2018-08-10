@@ -34,7 +34,6 @@ void variable()
 	// static - Just for the local file.
 }
 
-
 int main()
 {
     variable();
