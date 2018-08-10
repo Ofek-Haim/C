@@ -1,6 +1,7 @@
 // Ofek Haim - 2018
 
 #include "stdafx.h"
+
 const int global = 15;
 
 void variable()
