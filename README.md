@@ -18,3 +18,4 @@ Hope you'll enjoy from this repository.
 * String
 * Pointers
 * Pointing arrays and functions
+* Structs
