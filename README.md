@@ -20,3 +20,4 @@ Hope you'll enjoy from this repository.
 * Pointing arrays and functions
 * Structs
 * Dynamic memory management
+* Union
