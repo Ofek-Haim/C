@@ -19,3 +19,4 @@ Hope you'll enjoy from this repository.
 * Pointers
 * Pointing arrays and functions
 * Structs
+* Dynamic memory management
